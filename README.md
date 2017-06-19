@@ -15,6 +15,6 @@ Webbrowser written in Rust for RedoxOS
   + Addons and Themes Support
   + Graphics support via Vulkan or WebGL
 
-## What do u want to support or rwhich kind of idears u have?
+## What do u want to support or which kind of idears u have?
   + 
   + 
