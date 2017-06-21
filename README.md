@@ -1,4 +1,6 @@
 # Ruster
+
+[![Join the chat at https://gitter.im/Ruster-Browser/Lobby](https://badges.gitter.im/Ruster-Browser/Lobby.svg)](https://gitter.im/Ruster-Browser/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Webbrowser written in Rust for RedoxOS
 
 ## Goals
