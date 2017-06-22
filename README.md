@@ -15,6 +15,6 @@ Webbrowser written in Rust for RedoxOS
   + WebDevTools
   + Addons and Themes Support
   + Graphics support via Vulkan or WebGL
-  + Sandbox ()
-+
-## Which kind of idears i have?
+  + Sandbox (Security!)
+
+## 
