@@ -2,10 +2,11 @@
 Webbrowser written in Rust for RedoxOS
 
 ## Goals
-  + WebEngine is written in Rust
-    + html 5
-    + javascript
-    + 
+
++ Webbrowser is written in Rust
+
++ Webengine s written in TypeScript
+
     
 
 ## Features
@@ -14,7 +15,6 @@ Webbrowser written in Rust for RedoxOS
   + WebDevTools
   + Addons and Themes Support
   + Graphics support via Vulkan or WebGL
-
-## What do u want to support or which kind of idears u have?
-  + 
-  + 
+  + Sandbox ()
++
+## Which kind of idears i have?
