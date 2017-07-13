@@ -24,5 +24,8 @@ Webbrowser written in Rust for RedoxOS
 
 + Clean
 + Easy
-+ 
++ NO TABS
+  + WEBSITES ARE PINNED LEFT IN A SIDEBAR, look at the picture below. (Not really seen in the  sidebar!)
+  + 
+  
 ![Screenshot](Test_Concept_Reflex.png)
