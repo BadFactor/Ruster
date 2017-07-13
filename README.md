@@ -25,4 +25,4 @@ Webbrowser written in Rust for RedoxOS
 + Clean
 + Easy
 + 
-![Screenshot](Test Concept Reflex.png)
+![Screenshot](Test_Concept_Reflex.png)
