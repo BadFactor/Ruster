@@ -16,5 +16,13 @@ Webbrowser written in Rust for RedoxOS
 
 ## Building the Binary
 
-+ Atom /Visual Code / Sublime
++ Atom /Visual Code / Sublime / QT 5.9
 + 
+
+
+## Conceptual Design UI
+
++ Clean
++ Easy
++ 
+![Screenshot](Test Concept Reflex.png)
