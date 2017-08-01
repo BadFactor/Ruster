@@ -3,7 +3,8 @@ Webbrowser written in Rust for RedoxOS
 
 ## Goals
 
-+ Webbrowser is written in Rust
++ Webbrowser is written in Rust or
++ it is or could be a modified Servo Browser (Engine)
 
 ## Features
 
@@ -16,7 +17,7 @@ Webbrowser written in Rust for RedoxOS
 
 ## Building the Binary
 
-+ Atom /Visual Code / Sublime / QT 5.9
++ Atom / Visual Code / Sublime / QT 5.9
 + 
 
 
