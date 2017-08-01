@@ -24,8 +24,8 @@ Webbrowser written in Rust for RedoxOS
 
 + Clean
 + Easy
-+ NO TABS
-  + WEBSITES ARE PINNED LEFT IN A SIDEBAR, look at the picture below. (Not really seen in the  sidebar!)
-  + 
++ Modified "Servo-Browser" UI
+  + so its much colorful
+  + "UI Color Theme optional settings", some kind of that way! like in windows, where u can change the colors of the tabbar and windows
   
 ![Screenshot](Ruster.png)
